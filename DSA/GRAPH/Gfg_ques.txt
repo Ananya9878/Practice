@@ -1,0 +1,10 @@
+1)Dfs
+2)print adjency list
+3)print adjency list
+4)BFs
+5)Mother vertex
+6)shortest path from 1 to n
+7)Eulerian path
+8)sum of dependency
+9)count the path***(((RESURSION DFS)))****
+10)possible path

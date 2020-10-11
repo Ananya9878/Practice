@@ -1,0 +1,75 @@
+1)kth node
+2)sum of leaf node
+3)complete binary tree
+4)max level sum
+5)minimum depth
+6)identical tree.................
+7)sum of leaf right nodes
+8)symmetric trees..........
+9)max level node
+10)children sum parent
+11)lca...........
+12)max and min element in bt
+13)check for bt
+14)level of a node in bt
+
+15)max width of a tree
+16)binary to bst
+17)sum of left left node
+18)leaf node
+19)level order
+20)inorder traverse and bst
+21 depth of node
+22)delete nodes greater than k
+23)reverse level order
+24)vertical width of binary tree
+25)binary tree k level sum
+
+26)Kth largest elment in bst
+27)level order line by line
+28)node at odd level
+29)deletion in binary tree
+30)sum of tree
+31)next right node
+32)print bt in sorted order
+33)array to bst
+34)print node that dont have siblings
+35)odd even level diff
+............................................................
+36)remove half nodes
+37)right view if bt
+38)vertical sum
+39)transform to sum tree
+40)symmetric
+41)isomorphic
+42)identical
+43)diameter of binary tree
+
+#################################################################3
+###################################################################
+**************************BST***********************************
+1)minimum element in bst
+2)sum of leaf nodes in bst
+3)search node in bst
+4)common node in bst
+5)median of bst
+6)inorder successor
+7)greatest neighbour
+8)sum of k smallest element
+9)insert a node in bst
+
+
+def inorder(root,l):
+if root is None:
+return
+inorder(root.left,l)
+print(root.info)
+l.append(root.info)
+inorder(root.right,l)
+
+l=[]
+
+inoreder(root,l)
+print(l)
+
+

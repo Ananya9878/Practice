@@ -1,0 +1,11 @@
+EASY SECTION****
+1)count 0
+2)Maximum value in a bitonic array
+3)Min Subsets with Consecutive Numbers
+4)Nth number made of prime digits
+5)Length of longest subarray
+6)Find Transition Point
+7)Minimum Energy
+8)Counts Zeros Xor Pairs
+9)Sort an array of 0s, 1s and 2s
+10)
