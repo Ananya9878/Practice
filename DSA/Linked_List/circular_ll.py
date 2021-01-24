@@ -9,6 +9,7 @@ class CircularLinkedList:
 
     def display(self):
         pass
+
     def search(self,data):
         pass
     def insert_beginning(self,data):

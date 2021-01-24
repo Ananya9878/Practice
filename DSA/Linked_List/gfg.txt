@@ -1,0 +1,31 @@
+1)Linked List Length Even or Odd?
+2)Rotate doubly Linked List
+3)Occurence of an integer in a Linked List
+4)Delete Alternate Nodes
+5)Absolute List Sorting
+6)Identical Linked Lists
+7)Add 1 to a number represented as linked list
+8)linked list of strings forms a palindrome
+9)check if circular linked list
+10)Find the Sum of Last N nodes of the Linked List
+
+
+??????????15 oct 2020
+
+11)Delete without head pointer
+12)Linked List Matrix
+13)Binary Tree to CDLL((((()))))))$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+14)Add two numbers represented by Linked List
+15)Reverse a Doubly Linked List
+16)Rearrange linked list in-place***
+17)Union of Two Linked Lists
+18)Compare two linked lists((((&&&&&&&&&))))))
+19)Delete Middle of Linked List((((&&&&&&&&))))))
+20)Leaves to DLL
+
+________16 OCT 2020___________
+21)
+22)
+23)
+24)
+25)

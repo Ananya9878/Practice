@@ -57,10 +57,13 @@
 #     print(q)
 # print(s1)
 # ///////////////////////////////////////////
-s='AaBCXYZ'
+s='O hbm gmapz ct am vsofh tcf hvs psgh dfh ct am zwts. Zwys hvwg mf sjfm gbuz mf ct if zmt...W kobbo giddcfh i hc oqvwsjwbu mcif rfsoa obr voddwbsgg hvoh i rsgsfjs. O dfcawgs xp hy fvibuo tizz vcbsghm y gohv fovibuo.'
 s1=''
-k=4
+s = s.lower()
+k=12
 for i in s:
+    if i == ' ':
+        s1+=' '
     if i.isupper():
         i = i.lower()
         q = (ord(i)-65+k)%26
@@ -70,7 +73,7 @@ for i in s:
         q = (ord(i) - 65 + k) % 26
         s1 += chr(q + 65).lower()
 
-    print(q)
+    # print(q)
 print(s1)
 
 

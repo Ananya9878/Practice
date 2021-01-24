@@ -72,15 +72,25 @@
 # q = [(1,0),(3,0)]
 # k = q[-1][0]
 # print(k)
-l=[5,4,1,2]
+# l=[5,4,1,2]
 # mini = l[0]
 # for i in range(len(l)):
 #     if l[i] < mini:
 #         mini = l[i]
 #         k = i
 # print(mini,k)
-if l == sorted(l):
-    print('y')
-else:
-    print('n')
+# if l == sorted(l):
+#     print('y')
+# else:
+#     print
+# i = [(1,0)]
+# print(i[-1][-1])
 
+
+d={'a':1}
+d2 = d.copy()
+d2['b']=2
+d2['a']=1
+
+d2.update(d)
+print(d2)

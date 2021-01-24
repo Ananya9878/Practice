@@ -1,0 +1,27 @@
+******ALGO******
+....SORTING:
+1)heap
+2)radix
+3)bucket
+4)shell sort
+.....Recursion:
+******DSA*******
+.....Graph:
+1)Belman Ford
+2)Warshal
+3)Krushkal
+
+******2021*******
+****Tree****
+1)segment tree
+2)xor dp
+#3)mirror tree....
+#4)expression tree
+#5)lca....
+6)predessor successor
+7)trie
+8)diameter
+
+
+
+

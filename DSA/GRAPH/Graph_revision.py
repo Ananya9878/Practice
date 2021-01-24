@@ -117,7 +117,7 @@ class Graph:
                 z.append(p+[(i[0].info,i[1]+p[-1][1])])
             # print(z)
 
-    def dijkshtra_all_path(self,start):
+    def dijksra_all_path(self,start):
         if start not in self.d:
             return
         z = [[(start,0)]]

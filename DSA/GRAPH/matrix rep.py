@@ -18,7 +18,6 @@ vistied(k)
 print(k)
 p = mat[k]
 for loop:
-
 '''
 
 def bfs(mat,start):

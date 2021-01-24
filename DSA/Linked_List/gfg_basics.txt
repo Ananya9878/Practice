@@ -1,0 +1,9 @@
+16 oct 2020:
+1)Delete node in Doubly Linked List..............[TLE
+2)Print Linked List elements
+3)Finding middle element in a linked list
+4)find kth element
+5)Linked List Insertion
+6)Find n/k th node in Linked list
+7)
+8)

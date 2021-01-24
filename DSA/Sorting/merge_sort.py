@@ -13,11 +13,8 @@ def merge(arr1,arr2):
             x = arr1.pop(0)
             l.append(x)
     return l
-# arr1 = [1,5,6]
-# arr2=[2,4,7,9,8,10,11]
-#
-# q=merge(arr1,arr2)
-# print(q)
+
+
 def sort(l):
     print('sort',l)
     if len(l) == 1:
@@ -26,7 +23,10 @@ def sort(l):
     left=l[:mid]
     r = l[mid:]
     return merge(sort(left),sort(r))
-
-
 print(sort([4,7,2,3,1]))
+
+
+
+
+
 

@@ -9,3 +9,13 @@ EASY SECTION****
 8)Counts Zeros Xor Pairs
 9)Sort an array of 0s, 1s and 2s
 10)
+
+Date: 12-10-2020
+10)kth smallest element
+11)nuts and bolt
+12)Nearly Sorted Algorithm
+13)Minimum number to form the sum even
+14)Balanced Array
+15)Rotate Array
+16)Fighting the darkness
+17)
