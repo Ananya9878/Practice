@@ -87,10 +87,30 @@
 # print(i[-1][-1])
 
 
-d={'a':1}
-d2 = d.copy()
-d2['b']=2
-d2['a']=1
+# d={'a':1}
+# d2 = d.copy()
+# d2['b']=2
+# d2['a']=1
+#
+# d2.update(d)
+# print(d2)
 
-d2.update(d)
-print(d2)
+import heapq
+l = [(6,1),(3,1),(2,1),(1,1),(8,1),(9,1),(5,1),(0,1),(10,1)]
+print(heapq.heapify(l))
+print(l)
+a=heapq.heappop(l)
+print(a)
+print(l)
+heapq.heappush(l,(4,1))
+print(l)
+
+
+
+
+
+
+
+
+
+

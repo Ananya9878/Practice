@@ -1,0 +1,6 @@
+17 oct
+1)Find the Highest number
+2)Counting elements in two arrays
+3)Array Subset of another array
+4)k sorted array
+5)Number and the Digit Sum

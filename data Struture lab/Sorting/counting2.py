@@ -7,6 +7,7 @@ print(arr)
 l=[]
 for i in range(len(arr)):
     l+=[i]*arr[i]
+    # print(i,arr[i],l)
     print(l)
 
 
