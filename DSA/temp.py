@@ -438,6 +438,65 @@ from operator import ixor
 #         c+=1
 # print(c)
 
+# s = "/u/love\i\\"
+# # print(s.strip('/'))
+# # s = s[::-1]
+# t = []
+# p = ''
+# for i in range(1,len(s)-1):
+#     if s[i].islower():
+#         p+=s[i]
+#     elif s[i] == '/' or s[i] == '\\':
+#         t.append(p)
+#         p = ''
+# t.append(p[::-1])
+# t = t[::-1]
+# v = ''.join(t)
+# print(v)
+# n = 4
+# s1='1101'
+# s2='0011'
+# s1 = list(s1)
+# s2 = list(s2)
+# res=0
+# for i in range(n-1):
+#     if s1[i] == s2[i]:
+#         continue
+#     else:
+#         if s1[i+1] == s2[i+1]:
+#             res+=1
+#         else:
+#             if s1[i]!=s1[i+1]:
+#                 s1[i],s1[i+1] = s1[i+1],s1[i]
+#                 res+=1
+#             else:
+#                 res+=1
+# if s1[n-1] != s2[n-1]:
+#     res+=1
+# print(res)
+# nums = [1,2,3,4,5]
+# k=2
+# res=0
+# i = 0
+# while len(nums)>1:
+#
+#     res += 1
+#     if res == k:
+#         print(nums[i])
+#         nums.pop(i)
+#         res=0
+#
+#     i = len(nums) % len(nums)
+#     i+=1
+#     print(i)
+# print(nums)
+
+
+
+
+
+
+
 
 
 

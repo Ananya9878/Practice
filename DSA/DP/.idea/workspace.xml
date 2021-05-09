@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="792e8ce6-389c-408f-8946-01639eaa9e68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0/.idea/0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/693/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/693/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/693/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/693/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/697/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/697/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/697/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/697/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/697/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/697/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/702/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/702/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/702/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/702/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/702/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/702/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/702/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/702/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/710/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/710/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/714(div2)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/714(div2)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/714(div2)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/714(div2)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/714(div2)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/714(div2)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #674 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #674 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/D.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/E.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #677 (Div. 3)/E.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/B.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/B.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/C.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces/Codeforces Round #713/C.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_Practice" beforeDir="false" afterPath="$PROJECT_DIR$/DP_Practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_Practice/Knapsack0-1/top_down.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP_Practice/Knapsack0-1/top_down.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DP_Practice/subsequence/lcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/DP_Practice/subsequence/lcs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hacker_Earth" beforeDir="false" afterPath="$PROJECT_DIR$/../Hacker_Earth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codechef2021/april/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codechef2021/april/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codechef2021/april/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codechef2021/april/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codechef2021/april/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codechef2021/april/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../temp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sAAzp84aSEKgbqpheZzd3waYtd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="792e8ce6-389c-408f-8946-01639eaa9e68" name="Default Changelist" comment="" />
+      <created>1620305286218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620305286218</updated>
+    </task>
+    <servers />
+  </component>
+</project>
