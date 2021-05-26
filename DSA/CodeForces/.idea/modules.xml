@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CODECHEF/.idea/CODECHEF.iml" filepath="$PROJECT_DIR$/../CODECHEF/.idea/CODECHEF.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CodeForces.iml" filepath="$PROJECT_DIR$/.idea/CodeForces.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DP/.idea/DP.iml" filepath="$PROJECT_DIR$/../DP/.idea/DP.iml" />
     </modules>
